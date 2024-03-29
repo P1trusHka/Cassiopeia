@@ -1,0 +1,27 @@
+{
+  "name": "cassiopeia",
+  "version": "0.0.1",
+  "description": "First ",
+  "main": "cassiopeia.js",
+  "scripts": {
+    "test": "cassiopeiatest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P1trusHka/Cassiopeia.git"
+  },
+  "keywords": [
+    "music",
+    "bot",
+    "discord"
+  ],
+  "author": "P1trusHka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/P1trusHka/Cassiopeia/issues"
+  },
+  "homepage": "https://github.com/P1trusHka/Cassiopeia#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
