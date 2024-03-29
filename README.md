@@ -1,0 +1,2 @@
+# Cassiopeia
+🎇Cassiopeia discord bot
