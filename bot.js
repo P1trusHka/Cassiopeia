@@ -28,9 +28,3 @@ robot.on('message', (msg) => {
 });
 
 robot.login(token)
-
-
-
-  
-
-robot.login(token);
