@@ -27,7 +27,7 @@ To run this Discord bot locally, follow these steps:
 7. Start the bot by running node bot.js.
 
 ## Contributors
-
+- (P1trushka)[https://github.com/P1trusHka]
 
 ## License
 This project is licensed under the (MIT)[https://github.com/P1trusHka/Cassiopeia/blob/main/LICENSE] License - see the LICENSE file for details.
