@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is now the official [`@eslint/config-inspector`](https://github.com/eslint/config-inspector). Please migrate to the new package for future updates and improvements. This repository is archived.
+
 # Discord Bot for Different Tasks
 
 This repository contains a Discord bot written in JavaScript for performing various tasks within a Discord server.
