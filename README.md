@@ -33,4 +33,4 @@ To run this Discord bot locally, follow these steps:
 - [P1trushka](https://github.com/P1trusHka])
 
 ## License
-This project is licensed under the (MIT)[https://github.com/P1trusHka/Cassiopeia/blob/main/LICENSE] License - see the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/P1trusHka/Cassiopeia/blob/main/LICENSE) License - see the LICENSE file for details.
